@@ -1,0 +1,21 @@
+Company Name,Industry,Employee Count,Annual Revenue (INR Cr),Location,Current Design Tools,Website,Notes
+BuildCraft Interiors,Interior Design,45,12,Mumbai,"AutoCAD, SketchUp",buildcraftinteriors.in,Growing team; recently hired 5 designers
+DesignHub Studio,Interior Design,18,4.5,Bangalore,"SketchUp, Manual drawings",designhubstudio.com,Won award for residential design 2025
+Livspace Partners,Real Estate (Design Div),200,85,Bangalore,"Revit, Custom internal tool",livspace.com,Enterprise; may be too locked into Revit
+Arch & Beyond,Architecture + Interiors,30,8,Delhi,"AutoCAD, 3ds Max",archandbeyond.co.in,Does both architecture and interiors
+Space Matrix,Commercial Interiors,120,35,Hyderabad,"AutoCAD, Revit",spacematrix.com,Large firm; complex multi-floor projects
+Studio Organica,Boutique Interior Design,6,1.2,Pune,"Manual drawings, Pinterest",studioorganica.in,Very small team; might be too small for ICP
+Edifice Architects,Pure Architecture,50,15,Chennai,"Revit, AutoCAD",edificearchitects.com,Pure architecture — no interior design
+Interior Matters,Interior Design,22,6,Mumbai,"AutoCAD, Excel for BOQ",interiormatters.in,Pain point: manual BOQ creation
+CasaCraft,Furniture + Design,35,10,Jaipur,"SketchUp, Google Sheets",casacraft.in,Also manufactures custom furniture
+NestIN Design,Residential Interiors,15,3.8,Delhi,"SketchUp, WhatsApp for approvals",nestindesign.com,Struggles with client approval tracking
+Zenith Spaces,Commercial Interiors,60,20,Bangalore,"AutoCAD, Revit",zenithspaces.in,Enterprise sales team; decision by committee
+Decor Mantra,E-commerce + Design Services,80,25,Mumbai,"Custom tool, Photoshop",decormantra.com,Primarily e-commerce; design is secondary
+Tangent Design Lab,Interior Design,12,2.8,Goa,"SketchUp, Canva",tangentdesignlab.com,Young startup; cloud-native team
+UrbanNest Interiors,Residential Interiors,28,7,Kolkata,"AutoCAD, Manual BOQ",urbannestinteriors.in,Expanding to commercial projects
+Skyline Architects,Architecture + Interiors,90,30,Hyderabad,"Revit, Navisworks",skylinearchitects.co.in,Revit-heavy but exploring alternatives for interiors
+Olive Interiors,Boutique Design,4,0.8,Chandigarh,"Manual drawings",oliveinteriors.in,Too small; freelancer-sized
+Forma Studios,Interior Design,20,5.5,Bangalore,"AutoCAD, SketchUp, WhatsApp",formastudios.in,Active on LinkedIn about design tech
+KraftHaus,Modular Kitchen Specialist,40,11,Pune,"Custom configurator, AutoCAD",krafthaus.in,Niche — modular kitchens only
+BluePrint Designs,Interior + Architecture,25,6.5,Ahmedabad,"AutoCAD, Excel",blueprintdesigns.co.in,Recently lost a project due to slow revisions
+Vaastu Living,Traditional Interior Design,8,1.5,Lucknow,"Manual drawings, Word docs",vaastuliving.in,Traditional firm; low cloud readiness
